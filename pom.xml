@@ -7,8 +7,10 @@
     <groupId>de.janmm14</groupId>
     <artifactId>jsonmessagemaker</artifactId>
     <version>3.1.0</version>
-    <packaging>jar</packaging>
+    <packaging>jar</packaging>aaa
 
+         
+         
     <name>JsonMessageMaker</name>
     <description>JsonMessageMaker is an API for other spigot or bungee plugins allowing easy creation of json messages in minecraft from a string</description>
 
